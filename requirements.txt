@@ -1,3 +1,9 @@
-streamlit
 geopandas
 pandas
+numpy
+pathlib
+matplotlib.pyplot
+streamlit
+folium
+streamlit_folium
+branca.colormap
