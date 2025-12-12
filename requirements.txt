@@ -2,8 +2,8 @@ geopandas
 pandas
 numpy
 pathlib
-matplotlib.pyplot
+matplotlib
 streamlit
 folium
 streamlit_folium
-branca.colormap
+branca
